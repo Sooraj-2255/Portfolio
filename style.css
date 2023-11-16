@@ -1,0 +1,190 @@
+body{
+    background-color: cyan;
+}
+#heading{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#div1{
+    height: 270px;
+    width: 220px;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 43%;
+}
+
+#image{
+    padding: 10px;
+}
+#image-text{
+    text-align: center;
+    text-transform:uppercase;
+}
+#about{
+    height: 50px;
+    width:100%;
+    border: 2px solid black;
+    background-color: grey;
+    margin-top: 5%;
+}
+#text0{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#p{
+    text-align: justify;
+    padding: 20px;
+}
+#aboutinfo{
+    height: 180px;
+    width:100%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 2%;
+}
+
+#personaldetails{
+    height: 50px;
+    width:100%;
+    border: 2px solid black;
+    background-color: grey;
+    margin-top: 5%;
+}
+#text1{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#personalinfo{
+    height: 220px;
+    width:100%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 2%;
+}
+#education{
+    height: 50px;
+    width:100%;
+    border: 2px solid black;
+    background-color: grey;
+    margin-top: 5%;
+}
+#text2{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#educationinfo{
+    height: 150px;
+    width:100%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 2%;
+}
+#skills{
+    height: 50px;
+    width:100%;
+    border: 2px solid black;
+    background-color: grey;
+    margin-top: 5%;
+}
+#text3{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#skillsinfo{
+    height: 260px;
+    width:100%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 2%;
+}
+#project{
+    height: 50px;
+    width:100%;
+    border: 2px solid black;
+    background-color: grey;
+    margin-top: 5%;
+}
+#text4{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#projectinfo{
+    height: 260px;
+    width:100%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 2%;
+}
+#certifications{
+    height: 50px;
+    width:100%;
+    border: 2px solid black;
+    background-color: grey;
+    margin-top: 5%;
+}
+#text5{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#certificationsinfo{
+    height: 100px;
+    width:100%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 2%;
+}
+#internship{
+    height: 50px;
+    width:100%;
+    border: 2px solid black;
+    background-color: grey;
+    margin-top: 5%;
+}
+#text6{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#internshipinfo{
+    height: 80px;
+    width:100%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 2%;
+}
+#interest{
+    height: 50px;
+    width:100%;
+    border: 2px solid black;
+    background-color: grey;
+    margin-top: 5%;
+}
+#text7{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#interestinfo{
+    height: 100px;
+    width:100%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 2%;
+}
+#footer{
+    height: auto;
+    width:auto;
+    background-color: cyan;
+}
+#resume{
+    text-align: center;
+    padding: 30px;
+}
